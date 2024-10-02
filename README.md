@@ -1,7 +1,5 @@
 <h1>Fitness World</h1>
 <p>
-Here’s a concise documentation for the "Fitness Plans" feature that includes a brief description and functionality of the buttons to discover gym plans:
-
 Fitness Plans
 The Fitness Plans feature provides users with an intuitive way to explore various workout and nutrition plans tailored to their fitness goals. With just a click of a button, users can discover plans that fit their needs, making it easier to achieve their fitness objectives.</p>
 ![Screenshot 2024-10-02 125608](https://github.com/user-attachments/assets/d0bc4d02-bc0d-4e5a-b6cf-7dfdc62848c1)
